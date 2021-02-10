@@ -4,6 +4,8 @@
 
 ### mod4_nb1_numpy_foundations.ipynb
 
+[Cheat Sheet Link]()
+
 This one is the essential NumPy module notebook! It covers all the foundations to start working with NumPy in Data Science.
 
 **Table of Contents:**
@@ -17,3 +19,4 @@ This one is the essential NumPy module notebook! It covers all the foundations t
 - 4.7 - Manipulating Arrays: Element-Wise Operations
 - 4.8 - Manipulating Arrays: Matrix & Vector Mathematics
 - 4.9 - Random Number Generation (RNG)
+
