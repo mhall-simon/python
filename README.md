@@ -1,3 +1,4 @@
 # python
 Training materials for Python
-Learning Modules are in the /modules directory!
+
+Learning materials and content are in the /modules directory!
