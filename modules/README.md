@@ -5,8 +5,10 @@ Here are all of the modules!
 ## Module Breakdown
 
 ### Module 1: Intro to Python
-- Content
-- Content
+- Core Mathematical Operators
+- Basic Syntax
+- Output & Print
+- Jupyter Notebook
 
 ### Module 2: Primitive Data Types & Structures
 - Strings
