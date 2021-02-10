@@ -56,13 +56,15 @@ Here are all of the modules!
 
 ### Module 7: Objects & Classes
 
-### Module 8: SciPy & Regression
+### Module 8: Algorithms & Recursion
 
-### Module 9: SKLearn Foundations
+### Module 9: SciPy & Regression
 
-### Module 10: Keras Foundations
+### Module 10: SKLearn Foundations
 
-### Module 11: Finding & Connecting to External Data Services
+### Module 11: Keras Foundations
+
+### Module 12: Finding & Connecting to External Data Services
 - APIs
 - Database Connectivity
 - Packaged APIs
