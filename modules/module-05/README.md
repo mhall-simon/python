@@ -5,6 +5,8 @@
 
 [Cheat Sheet]()
 
+This notebooks is where you should start learning about Pandas and the addition of Series & DataFrames into Python.
+
 **Table of Contents:**
 - 5.1 - Series & DataFrames
 - 5.2 - Indexing DataFrames
@@ -18,9 +20,21 @@
 
 [Cheat Sheet]()
 
+This notebook teaches you about SQL-like operations in DataFrames!
+
 **Table of Contents:**
 - 5.8  - Aggregate
 - 5.9  - Filter
 - 5.10 - Group By
 - 5.11 - Summarize
 - 5.12 - Merging Multiple Tables
+
+### mod5_nb3_pandas_adv_referencing.ipynb
+
+[Cheat Sheet]()
+
+This notebook covers shifting your reference point in an Excel-like manner and generating SQL-like windows.
+
+**Table of Contents:**
+- 5.13 - Shift
+- 5.14 - Window Functions: Rolling & Expanding
