@@ -58,7 +58,7 @@ Here are all of the modules!
 
 ### Module 8: Algorithms & Recursion
 
-### Module 9: SciPy & Regression
+### Module 9: SciPy & Statistics
 
 ### Module 10: SKLearn Foundations
 
