@@ -54,13 +54,15 @@ Here are all of the modules!
 - Matplot
 - Seaborn
 
-### Module 7: SciPy & Regression
+### Module 7: Objects & Classes
 
-### Module 8: SKLearn Foundations
+### Module 8: SciPy & Regression
 
-### Module 9: Keras Foundations
+### Module 9: SKLearn Foundations
 
-### Module 10: Finding & Connecting to External Data Services
+### Module 10: Keras Foundations
+
+### Module 11: Finding & Connecting to External Data Services
 - APIs
 - Database Connectivity
 - Packaged APIs
