@@ -59,3 +59,8 @@ Here are all of the modules!
 ### Module 8: SKLearn Foundations
 
 ### Module 9: Keras Foundations
+
+### Module 10: Finding & Connecting to External Data Services
+- APIs
+- Database Connectivity
+- Packaged APIs
