@@ -27,4 +27,24 @@ Here are all of the modules!
 
 ### Module 4: NumPy Fundamentals
 - Arrays, Arrays, and Arrays!
+- Indexing
+- Broadcasting
+- Element-Wise Operations
+- Matrix & Linear Algebra Operations
 - Random Number Generation (RNG)
+
+### Module 5: Pandas Fundamentals
+- DataFrame & Series
+- Indexing
+- Multi-Indexed Data
+- Date / Time Information
+- Broadcasting
+- Row & Column-wise Operations
+- SQL Functionality
+ - Aggregates
+ - Filter
+ - Groupby
+ - Summarize
+ - Merging Tables
+- Time Series Extras
+
