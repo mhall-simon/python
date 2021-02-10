@@ -50,3 +50,12 @@ Here are all of the modules!
  - Merging Tables
 - Time Series Extras
 
+### Module 6: Data Visualization
+- Matplot
+- Seaborn
+
+### Module 7: SciPy & Regression
+
+### Module 8: SKLearn Foundations
+
+### Module 9: Keras Foundations
