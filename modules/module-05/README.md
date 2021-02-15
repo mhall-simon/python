@@ -28,13 +28,7 @@ This notebook teaches you about SQL-like operations in DataFrames!
 - 5.10 - Group By
 - 5.11 - Summarize
 - 5.12 - Merging Multiple Tables
+- 5.13 - Window: Shift
+- 5.14 - Window: Rolling
+- 5.15 - Window: Expanding
 
-### mod5_nb3_pandas_adv_referencing.ipynb
-
-[Cheat Sheet]()
-
-This notebook covers shifting your reference point in an Excel-like manner and generating SQL-like windows.
-
-**Table of Contents:**
-- 5.13 - Shift
-- 5.14 - Window Functions: Rolling & Expanding
