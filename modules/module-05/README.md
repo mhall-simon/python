@@ -37,3 +37,9 @@ This notebook teaches you about SQL-like operations in DataFrames!
 [Cheat Sheet]()
 
 This notebooks teaches you the basics of Pandas' built-in visualization tools (based upon Matplot)
+
+### mod5_nb4_pandas_pivot.ipynb
+
+[Cheat Sheet]()
+
+This notebook covers how to create pivot tables in Pandas!
