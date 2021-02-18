@@ -1,2 +1,1 @@
-# Module 6
-## Data Visualization
+# Module 6: Data Visualization
