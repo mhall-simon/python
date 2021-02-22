@@ -1,3 +1,3 @@
-# Adult Dataset From UC Irvine
+# Adult Income Dataset From UC Irvine
 
 Source: http://archive.ics.uci.edu/ml/datasets/Adult
