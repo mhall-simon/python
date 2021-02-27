@@ -12,4 +12,4 @@ After Training Notebooks:
 [Dropbox Link](https://www.dropbox.com/sh/5b7rtxny2cl9fid/AACNl_BTM9afw3f1MFz1XX54a?dl=0)
 
 Recording Link:
-[Dropbox Link]()
+[Dropbox Link](https://www.dropbox.com/s/l02luusikrchcuw/zoom_0.mp4?dl=0)
