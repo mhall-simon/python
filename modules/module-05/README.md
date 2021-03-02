@@ -43,3 +43,10 @@ This notebooks teaches you the basics of Pandas' built-in visualization tools (b
 [Cheat Sheet]()
 
 This notebook covers how to create pivot tables in Pandas!
+
+## Presentations & Descriptions
+
+### mod5_pres-A_FramesRowsColumns-Explained.pdf
+
+This quick presentation provides tips and tricks for setting up DataFrames in Python with Pandas. It covers the difference between rows and columns, which serve unique purposes in Data Science.
+
