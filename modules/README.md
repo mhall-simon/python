@@ -11,13 +11,8 @@ Here are all of the modules!
 - Jupyter Notebook
 
 ### Module 2: Primitive Data Types & Structures
-- Strings
-- Numbers
-- Boolean
-- Lists
-- Tuples
-- Sets
-- Dictionaries
+- Data Types: Strings, Integers, Float, Boolean
+- Data Structures: Lists, Tuples, Sets, Dictionaries
 
 ### Module 3: Functions and Program Flow
 - Functions
