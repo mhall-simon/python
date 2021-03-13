@@ -1,2 +1,1 @@
-# Module 9
-## SciPy & Statistics
+# Module 9: SciPy & Statistics
