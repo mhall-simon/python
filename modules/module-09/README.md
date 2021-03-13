@@ -4,5 +4,5 @@
 
 ### mod9_nb1_linear_regression.ipynb
 
-This notebook covers the foundations of linear regression in Python!
+This notebook covers the foundations of linear regression in Python using the Statsmodels package!
 
