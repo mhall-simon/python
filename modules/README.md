@@ -54,8 +54,13 @@ Here are all of the modules!
 ### Module 8: Algorithms & Recursion
 
 ### Module 9: SciPy & Statistics
+- Topic 1: Linear Regression with statsmodels
 
 ### Module 10: SKLearn Foundations
+
+#### Classification Algorithms
+
+#### Regression Algorithms
 
 ### Module 11: Keras Foundations
 
