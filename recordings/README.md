@@ -25,3 +25,14 @@ After Training Notebooks:
 
 Recordings Link:
 [Dropbox Link](https://www.dropbox.com/sh/5lalrt3psvqh8j3/AADmyANeJ3pGH2Vzqrtl3ZpIa?dl=0)
+
+## Sunday March 14th, 2021
+
+Content Covered:
+- Module 9, Topic 1: Linear Regression with statsmodels (Single Variable Only)
+
+After Training Notebooks:
+[Dropbox Link](https://www.dropbox.com/sh/xc4y53xkxqujco6/AAB7N4nyDrajD8y8cvdjlGc_a?dl=0)
+
+Recording Link:
+[Dropbox Link](https://www.dropbox.com/sh/4r46z3tzcz8qpn8/AAAy2SBl0JGcHIGfAnF6nPiXa?dl=0)
