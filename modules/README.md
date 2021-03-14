@@ -55,6 +55,10 @@ Here are all of the modules!
 
 ### Module 9: SciPy & Statistics
 - Topic 1: Linear Regression with statsmodels
+- Topic 2: Monte Carlo & Simulation Modeling
+- Topic 3: ARIMA Regression
+- Topic 4: SciPy Linear Optimization
+- Topic 5: Sampling & Computing The Standard Normal Distribution
 
 ### Module 10: SKLearn Foundations
 
@@ -75,6 +79,8 @@ Here are all of the modules!
 - K Means
 
 #### Regression Algorithms
+- Linear Regression, Single
+- Linear Regression, Multi
 - Regression Trees
 
 ### Module 11: Keras Foundations
