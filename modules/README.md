@@ -85,7 +85,16 @@ Here are all of the modules!
 
 ### Module 11: Keras Foundations
 
+#### Neural Network Overview
+
+#### Regression with Keras
+
+#### Classification with Keras
+
 ### Module 12: Finding & Connecting to External Data Services
-- APIs
-- Database Connectivity
-- Packaged APIs
+
+#### API Requests
+
+#### Database Connectivity
+
+#### Packaged API Objects
