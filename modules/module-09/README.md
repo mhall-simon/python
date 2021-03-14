@@ -1,8 +1,15 @@
 # Module 9: SciPy & Statistics
 
-## Notebooks & Descriptions
+## Linear Regression with statsmodels
 
-### mod9_nb1_linear_regression.ipynb
+### Part 1: Linear Regression, Single Variable
 
-This notebook covers the foundations of linear regression in Python using the Statsmodels package!
+#### mod9_nb1_linear_regression_sm_single.ipynb
 
+This notebook covers the foundations of single variable linear regression in Python using the Statsmodels package!
+
+### Part 2: Linear Regression, Multivariate
+
+#### mod9_nb2_linear_regression_sm_multi.ipynb
+
+This notebook covers the foundations of multivariate linear regression in Python using the Statsmodels package!
