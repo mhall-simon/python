@@ -50,3 +50,6 @@ This notebook covers how to create pivot tables in Pandas!
 
 This quick presentation provides tips and tricks for setting up DataFrames in Python with Pandas. It covers the difference between rows and columns, which serve unique purposes in Data Science.
 
+### mod5_pres-B_SQL-Visualized.pdf
+
+This quick presentation goes over SQL operations in Pandas in a visual form with color coding. This helps visualize the operations that are ongoing behind the scenes to grab summary statistics.
