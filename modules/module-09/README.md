@@ -1,6 +1,6 @@
 # Module 9: SciPy & Statistics
 
-## Linear Regression with statsmodels
+## Topic: Linear Regression with statsmodels
 
 ### Part 1: Linear Regression, Single Variable
 
