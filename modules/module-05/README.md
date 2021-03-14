@@ -3,8 +3,6 @@
 
 ### mod5_nb1_pandas_foundations.ipynb
 
-[Cheat Sheet]()
-
 This notebooks is where you should start learning about Pandas and the addition of Series & DataFrames into Python.
 
 **Table of Contents:**
@@ -17,8 +15,6 @@ This notebooks is where you should start learning about Pandas and the addition 
 - 5.7 - Row & Column-wise Operations
 
 ### mod5_nb2_pandas_sql_func.ipynb
-
-[Cheat Sheet]()
 
 This notebook teaches you about SQL-like operations in DataFrames!
 
@@ -34,13 +30,13 @@ This notebook teaches you about SQL-like operations in DataFrames!
 
 ### mod5_nb3_pandas_visualize.ipynb
 
-[Cheat Sheet]()
+COMING SOON
 
 This notebooks teaches you the basics of Pandas' built-in visualization tools (based upon Matplot)
 
 ### mod5_nb4_pandas_pivot.ipynb
 
-[Cheat Sheet]()
+COMING SOON
 
 This notebook covers how to create pivot tables in Pandas!
 
