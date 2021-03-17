@@ -42,6 +42,12 @@ COMING SOON
 
 This notebook covers how to create pivot tables in Pandas!
 
+### mod6_nb5_preprocessing_data.ipynb
+
+COMING SOON
+
+This notebooks covers preprocessing Data Frames for Data Science and useful features for future trainings!
+
 -->
 
 ## Presentations & Descriptions
