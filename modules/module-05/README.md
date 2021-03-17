@@ -28,6 +28,8 @@ This notebook teaches you about SQL-like operations in DataFrames!
 - 5.14 - Window: Rolling
 - 5.15 - Window: Expanding
 
+<!--
+
 ### mod5_nb3_pandas_visualize.ipynb
 
 COMING SOON
@@ -39,6 +41,8 @@ This notebooks teaches you the basics of Pandas' built-in visualization tools (b
 COMING SOON
 
 This notebook covers how to create pivot tables in Pandas!
+
+-->
 
 ## Presentations & Descriptions
 
