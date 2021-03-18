@@ -28,9 +28,7 @@ This notebook teaches you about SQL-like operations in DataFrames!
 - 5.14 - Window: Rolling
 - 5.15 - Window: Expanding
 
-<!--
-
-### mod5_nb3_pandas_visualize.ipynb
+### mod5_nb3_pandas_visualization.ipynb
 
 COMING SOON
 
@@ -42,13 +40,17 @@ COMING SOON
 
 This notebook covers how to create pivot tables in Pandas!
 
-### mod6_nb5_preprocessing_data.ipynb
+### mod5_nb5_preprocessing_data.ipynb
 
 COMING SOON
 
 This notebooks covers preprocessing Data Frames for Data Science and useful features for future trainings!
 
--->
+### mod5_nb6_quantile_cutting.ipynb
+
+COMING SOON
+
+This notebooks covers how to separate continuous variables automatically into quantiles of your choosing, which is very useful for running groupby operations on continuous variables.
 
 ## Presentations & Descriptions
 
