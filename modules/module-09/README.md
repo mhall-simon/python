@@ -14,6 +14,12 @@ This notebook covers the foundations of single variable linear regression in Pyt
 
 This notebook covers the foundations of multivariate linear regression in Python using the Statsmodels package!
 
+### Part C: Linear Regression with Nonlinear Relationships
+
+#### mod9_top1_ptC_linear_reg_nonlinear_relationships.ipynb
+
+This notebook covers how to use the log and power functions to make non-linear relationships approximately non-linear.
+
 ## Topic 2: Simulation Modeling: Monte Carlo & Markov Chains
 
 ### Part A: Background Materials For Simulations, Monte Carlo, and Markov Chains
