@@ -90,3 +90,7 @@ Spyder Looks Like This:
 ![Screenshot of Spyder Interface](https://github.com/mhall-simon/python/blob/main/data/screenshots/Screen%20Shot%202021-03-18%20at%2010.37.19%20AM.png?raw=True)
 
 For the most part, they all do the same thing! Some editors have useful features, and my favorite is personally Spyder. However, Google Colab is a great place to just started!
+
+If you're behind a firewall and cannot access Google Colab, I recommend installing [Anaconda](https://docs.anaconda.com/anaconda/install/) and using the Jupyter Lab IDE in the beginning. Once you're a bit more experienced, I love the featureset that Spyder offers!
+
+Now that you're done reading this, start exploring the modules above to learn more about Python!
