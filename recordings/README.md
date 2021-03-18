@@ -2,6 +2,10 @@
 
 Here are all the links for trainings that have been done and are free to view. I am sorting these by date and time completed.
 
+**PRIVACY NOTICE:**
+
+This GitHub repo is open to the public with all of the code. Please be respectful of my fellow Simon students and do not distribute any recordings.
+
 ## Saturday February 27th, 2021
 
 Content Covered:
