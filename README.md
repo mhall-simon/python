@@ -4,9 +4,7 @@
 
 # Have You Never Looked At Python Before?
 
-You're going to start by navigating into the *modules* folder, and then *module-01*!
-
-Once you're in that folder, read the README.md document that will be rendered below the directory (files).
+[Click Here](https://github.com/mhall-simon/python/tree/main/modules/module-01#introduction-to-python)
 
 # Folders Overview
 
