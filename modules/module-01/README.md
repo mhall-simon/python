@@ -81,4 +81,12 @@ Google Colab is an example of an IDE! It's the interface that allows us to build
 
 It looks something like this:
 
-![Screenshot of Google Colab Interface](https://www.dropbox.com/s/7h1qeb5u1h2slo5/Screen%20Shot%202021-03-18%20at%2010.27.48%20AM.png?dl=1)
+![Screenshot of Google Colab Interface](https://github.com/mhall-simon/python/blob/main/data/screenshots/Screen%20Shot%202021-03-18%20at%2010.27.48%20AM.png?raw=True)
+
+Other examples of IDEs are Jupyter Lab, Spyder, and PyCharm!
+
+Spyder Looks Like This:
+
+![Screenshot of Spyder Interface](https://github.com/mhall-simon/python/blob/main/data/screenshots/Screen%20Shot%202021-03-18%20at%2010.37.19%20AM.png?raw=True)
+
+For the most part, they all do the same thing! Some editors have useful features, and my favorite is personally Spyder. However, Google Colab is a great place to just started!
