@@ -18,7 +18,7 @@ This notebook covers the foundations of multivariate linear regression in Python
 
 #### mod9_top1_ptC_linear_reg_nonlinear_relationships.ipynb
 
-This notebook covers how to use the log and power functions to make non-linear relationships approximately non-linear.
+This notebook covers how to use the log and power functions to make non-linear relationships linear.
 
 ## Topic 2: Simulation Modeling: Monte Carlo & Markov Chains
 
