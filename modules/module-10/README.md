@@ -14,3 +14,13 @@
 - Linear Regression - Transformed Target
 - Linear Regression - Polynomial Relationships
 - Linear Regression - Ridge
+- Regression Trees
+- Random Forest
+
+## Classification Algorithms & Topics
+
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- K Nearest Neighbors
+- K Means
