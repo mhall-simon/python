@@ -1,8 +1,6 @@
 # Module 10: SKLearn Foundations
 
-## Machine Learning In Python
-
-# A: Machine Learning Fundamentals
+## Topic 1: Machine Learning Fundamentals
 
 - Regression vs. Classification
 - Supervised vs. Unsupervised Models
@@ -10,7 +8,9 @@
 - Overfitting / Underfitting
 - Statistical Properties of Underlying Functions
 
-# B: Linear Regression: Single Variable
+## Regression Algorithms & Topics
 
-# C: Linear Regression: Multiple Variables
-
+- Linear Regression
+- Linear Regression - Transformed Target
+- Linear Regression - Polynomial Relationships
+- Linear Regression - Ridge
