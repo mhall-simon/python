@@ -11,11 +11,9 @@
 ## Regression Algorithms & Topics
 
 - Linear Regression
-- Linear Regression - Transformed Target
-- Linear Regression - Polynomial Relationships
-- Linear Regression - Ridge
-- Regression Trees
-- Random Forest
+- Linear Regression with Transformed Target
+- Ridge Regression with Standardized Inputs
+- Ridge and LASSO Regression with Polynomial Features
 
 ## Classification Algorithms & Topics
 
