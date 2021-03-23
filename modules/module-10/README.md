@@ -11,7 +11,7 @@
 ## Regression Algorithms & Topics
 
 - Linear Regression
-- Linear Regression with Transformed Target
+- Linear Regression with Transformed (Logarithmic) Target
 - Ridge Regression with Standardized Inputs
 - Ridge and LASSO Regression with Polynomial Features
 
