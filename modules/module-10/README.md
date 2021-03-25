@@ -1,6 +1,6 @@
 # Module 10: SKLearn Foundations
 
-## Topic 1: Machine Learning Fundamentals
+## Machine Learning Fundamentals
 
 - Regression vs. Classification
 - Supervised vs. Unsupervised Models
