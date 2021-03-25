@@ -10,6 +10,7 @@
 
 ## Regression Algorithms & Topics
 
+### Notebook Series: Expanding Upon Linear Regression
 - Linear Regression
 - Linear Regression with Transformed (Logarithmic) Target
 - Ridge Regression with Standardized Inputs
