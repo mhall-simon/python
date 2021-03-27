@@ -28,6 +28,10 @@ This folder contains recordings of previous trainings and any unique materials. 
 
 This folder is where I store all of the necessary data files for the Python reference materials. You probably won't have to manually go in here-ever.
 
-## Exercises
+<!--
+
+## Exercises - Show when Ready.
 
 This folder contains exercises that will help you learn python! You'll only get better through practice!
+
+-->
