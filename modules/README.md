@@ -63,13 +63,6 @@ Here are all of the modules!
 ### Module 10: SKLearn Foundations
 
 #### Machine Learning Overview
-- Topic 1: Regression vs Classification
-- Topic 2: Supervised vs Unsupervised
-- Topic 3: Train Test Validation Splits
-- Topic 4: Underfitting vs Overfitting Data
-- Topic 5: High Level Overviews of Methods
-- Topic 6: Tree-Based Models in Python
-- Topic 7: Linear Regression in SKLearn
 
 #### Classification Algorithms
 - Logistic Regression
@@ -79,9 +72,12 @@ Here are all of the modules!
 - K Means
 
 #### Regression Algorithms
-- Linear Regression, Single
-- Linear Regression, Multi
+- Linear Regression
+- Linear Regression with Transformed (Logarithmic) Targets
+- Ridge Regression with Standardized Features
+- Ridge and LASSO Regression with Polynomial Features
 - Regression Trees
+- Random Forests
 
 ### Module 11: Keras Foundations
 
