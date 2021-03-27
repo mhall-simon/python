@@ -2,6 +2,8 @@
 
 In this collection, we have a lot of notebooks that go together! It's a good thing to look at them in order, to get more context, however, each notebook is still a good source on its own!
 
+***Note:*** Since the version of SKlearn and Python you have may result in dissimilar results, I will provide Docker images to ensure compatibility. If you want to get close and not worry about Docker, I'm building the notebooks on Anaconda Python 3.8, with SKLearn version 0.23.1.
+
 ## Machine Learning Fundamentals
 
 - Regression vs. Classification
