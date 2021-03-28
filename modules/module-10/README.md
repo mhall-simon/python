@@ -19,6 +19,17 @@ In this collection, we have a lot of notebooks that go together! It's a good thi
 - Linear Regression with Transformed (Logarithmic) Target
 - Ridge Regression with Standardized Inputs
 - Ridge and LASSO Regression with Polynomial Features
+- Ridge and LASSO with Log-Log Transformations
+
+### Notebook Series: Regression Trees, Extensions, and Stumps
+- Regression Trees
+- Random Forest Regression
+- Extremely Randomized (ExtRa) Trees
+- AdaBoost Regression
+- XGBoost Regression
+
+### Notebook Series: Stacking Regression Models
+- Stacking Our Regression Models Together
 
 ## Classification Algorithms & Topics
 
