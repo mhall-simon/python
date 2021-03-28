@@ -4,9 +4,9 @@ In this collection, we have a lot of notebooks that go together! It's a good thi
 
 ***Note:*** Since the version of SKlearn and Python you have may result in dissimilar results, I will provide Docker images to ensure compatibility. If you want to get close and not worry about Docker, I'm building the notebooks on Anaconda Python 3.8, with SKLearn version 0.23.1.
 
-## Machine Learning Fundamentals
+# Machine Learning Fundamentals
 
-### Introductory Materials
+## Introductory Materials
 
 - Regression vs. Classification
 - Supervised vs. Unsupervised Models
@@ -14,7 +14,7 @@ In this collection, we have a lot of notebooks that go together! It's a good thi
 - Overfitting / Underfitting
 - Statistical Properties of Underlying Functions
 
-### Preprocessing Data
+## Preprocessing Data
 
 **Categorical Encoding:**
  - One-Hot Encoding
@@ -29,26 +29,26 @@ In this collection, we have a lot of notebooks that go together! It's a good thi
  - Standard Scaling
  - Normalization
 
-## Regression Algorithms & Topics
+# Regression Algorithms & Topics
 
-### Notebook Series: Expanding Upon Linear Regression
+## Notebook Series: Expanding Upon Linear Regression
 - Linear Regression *(mod10-regression-linear-regression.ipynb)*
 - Linear Regression with Transformed (Logarithmic) Target *(mod10-regression-linear-regresssion-transformed-target.ipynb)*
 - Ridge Regression with Standardized Inputs *(mod10-regression-ridge-regression-standardized-inputs.ipynb)*
 - Ridge and LASSO Regression with Polynomial Features *(mod10-regression-ridge-lasso-polynomial-features.ipynb)*
 - Ridge and LASSO with Log-Log Transformations *(mod10-regression-ridge-lasso-log-log-models.ipynb)*
 
-### Notebook Series: Regression Trees, Forests, and Stumps
+## Notebook Series: Regression Trees, Forests, and Stumps
 - Regression Trees
 - Random Forest Regression
 - Extremely Randomized (ExtRa) Trees
 - AdaBoost Regression
 - XGBoost Regression
 
-### Notebook Series: Stacking Regression Models
+## Notebook Series: Stacking Regression Models
 - Stacking Regression Models
 
-## Classification Algorithms & Topics
+# Classification Algorithms & Topics
 
 - Logistic Regression
 - Decision Trees
