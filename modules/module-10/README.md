@@ -38,7 +38,7 @@ In this collection, we have a lot of notebooks that go together! It's a good thi
 - Ridge and LASSO Regression with Polynomial Features *(mod10-regression-ridge-lasso-polynomial-features.ipynb)*
 - Ridge and LASSO with Log-Log Transformations *(mod10-regression-ridge-lasso-log-log-models.ipynb)*
 
-### Notebook Series: Regression Trees, Extensions, and Stumps
+### Notebook Series: Regression Trees, Forests, and Stumps
 - Regression Trees
 - Random Forest Regression
 - Extremely Randomized (ExtRa) Trees
