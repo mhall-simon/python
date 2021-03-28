@@ -6,20 +6,37 @@ In this collection, we have a lot of notebooks that go together! It's a good thi
 
 ## Machine Learning Fundamentals
 
+### Introductory Materials
+
 - Regression vs. Classification
 - Supervised vs. Unsupervised Models
 - Training, Testing, Validation
 - Overfitting / Underfitting
 - Statistical Properties of Underlying Functions
 
+### Preprocessing Data
+
+**Categorical Encoding:**
+ - One-Hot Encoding
+ - Binary Encoding
+ - "Dropping" Categories & Colinearity
+ - Handling Errors vs. Colinearity
+
+
+**Numerical Encoding:**
+ - Logarithmic Transformations
+ - Polynomial Relationships
+ - Standard Scaling
+ - Normalization
+
 ## Regression Algorithms & Topics
 
 ### Notebook Series: Expanding Upon Linear Regression
-- Linear Regression
-- Linear Regression with Transformed (Logarithmic) Target
-- Ridge Regression with Standardized Inputs
-- Ridge and LASSO Regression with Polynomial Features
-- Ridge and LASSO with Log-Log Transformations
+- Linear Regression *(mod10-regression-linear-regression.ipynb)*
+- Linear Regression with Transformed (Logarithmic) Target *(mod10-regression-linear-regresssion-transformed-target.ipynb)*
+- Ridge Regression with Standardized Inputs *(mod10-regression-ridge-regression-standardized-inputs.ipynb)*
+- Ridge and LASSO Regression with Polynomial Features *(mod10-regression-ridge-lasso-polynomial-features.ipynb)*
+- Ridge and LASSO with Log-Log Transformations *(mod10-regression-ridge-lasso-log-log-models.ipynb)*
 
 ### Notebook Series: Regression Trees, Extensions, and Stumps
 - Regression Trees
@@ -29,7 +46,7 @@ In this collection, we have a lot of notebooks that go together! It's a good thi
 - XGBoost Regression
 
 ### Notebook Series: Stacking Regression Models
-- Stacking Our Regression Models Together
+- Stacking Regression Models
 
 ## Classification Algorithms & Topics
 
