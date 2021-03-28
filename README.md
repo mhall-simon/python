@@ -2,6 +2,8 @@
 
 Welcome to My GitHub Reference Repository for learning about Data Science in Python! Have You Never Looked At Python Before? [Click Here](https://github.com/mhall-simon/python/tree/main/modules/module-01#introduction-to-python)
 
+All of the notebooks you see in this repository have been created by me!
+
 This repository follows a structure with the main parts outlined below:
 
 # Folders Overview
