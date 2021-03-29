@@ -48,6 +48,7 @@ Basics of Machine Learning - Key Terminology *(mod10-fundamentals-key-terminolog
 - Ridge Regression with Standardized Inputs *(mod10-regression-ridge-regression-standardized-inputs.ipynb)*
 - Ridge and LASSO Regression with Polynomial Features *(mod10-regression-ridge-lasso-polynomial-features.ipynb)*
 - Ridge and LASSO with Log-Log Transformations *(mod10-regression-ridge-lasso-log-log-models.ipynb)*
+- Comparing Coefficients Across Linear Models *(mod10-regression-coefficients-across-models.ipynb)*
 
 ## Notebook Series: Regression Trees, Forests, and Stumps
 - Regression Trees *(mod10-regression-tree-models.ipynb)*
