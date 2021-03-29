@@ -35,6 +35,11 @@ Basics of Machine Learning - Key Terminology *(mod10-fundamentals-key-terminolog
 - Log Transformations
 - Polynomial Transformations
 
+**Pipelines:** *(mod10-preprocessing-pipelines.ipynb)*
+- Building Pipelines
+- Visualizing Pipelines
+- Transforming Datasets
+
 # Regression Algorithms & Topics
 
 ## Notebook Series: Expanding Upon Linear Regression
@@ -44,7 +49,7 @@ Basics of Machine Learning - Key Terminology *(mod10-fundamentals-key-terminolog
 - Ridge and LASSO Regression with Polynomial Features *(mod10-regression-ridge-lasso-polynomial-features.ipynb)*
 - Ridge and LASSO with Log-Log Transformations *(mod10-regression-ridge-lasso-log-log-models.ipynb)*
 
-## Notebook Series: Regression Trees, Forests, and Stumps - COMING SOON
+## Notebook Series: Regression Trees, Forests, and Stumps
 - Regression Trees *(mod10-regression-tree-models.ipynb)*
 - Random Forest Regression *(mod10-regression-random-forest.ipynb)*
 - Extremely Randomized (ExtRa) Trees *(mod10-regression-extra-trees.ipynb)*
@@ -54,6 +59,11 @@ Basics of Machine Learning - Key Terminology *(mod10-fundamentals-key-terminolog
 ## Notebook Series: Stacking Regression Models
 - Stacking Regression Models *(mod10-regression-stacking.ipynb)*
 
+
+# COMING NEXT: CLASSIFICATION & CLUSTERING MODELS
+
+<!--
+
 # Classification Algorithms & Topics
 
 - Logistic Regression
@@ -61,3 +71,5 @@ Basics of Machine Learning - Key Terminology *(mod10-fundamentals-key-terminolog
 - Random Forest
 - K Nearest Neighbors
 - K Means
+
+-->
