@@ -17,18 +17,23 @@ Basics of Machine Learning - Key Terminology *(mod10-fundamentals-key-terminolog
 
 ## Preprocessing Data
 
-**Categorical Encoding:**
+**Categorical Encoding:** *(mod10-preprocessing-categorical-encoding.ipynb)*
  - One-Hot Encoding
  - Binary Encoding
  - "Dropping" Categories & Colinearity
  - Handling Errors vs. Colinearity
 
-
-**Numerical Encoding:**
+**Numerical Features:** *(mod10-preprocessing-numerical-features.ipynb)*
  - Logarithmic Transformations
  - Polynomial Relationships
  - Standard Scaling
  - Normalization
+ - Normalization vs Standardization
+
+**Feature Engineering:** *(mod10-preprocessing-feature-engineering.ipynb)*
+- Imputing Missing Values
+- Log Transformations
+- Polynomial Transformations
 
 # Regression Algorithms & Topics
 
@@ -39,15 +44,15 @@ Basics of Machine Learning - Key Terminology *(mod10-fundamentals-key-terminolog
 - Ridge and LASSO Regression with Polynomial Features *(mod10-regression-ridge-lasso-polynomial-features.ipynb)*
 - Ridge and LASSO with Log-Log Transformations *(mod10-regression-ridge-lasso-log-log-models.ipynb)*
 
-## Notebook Series: Regression Trees, Forests, and Stumps
-- Regression Trees
-- Random Forest Regression
-- Extremely Randomized (ExtRa) Trees
-- AdaBoost Regression
-- XGBoost Regression
+## Notebook Series: Regression Trees, Forests, and Stumps - COMING SOON
+- Regression Trees *(mod10-regression-tree-models.ipynb)*
+- Random Forest Regression *(mod10-regression-random-forest.ipynb)*
+- Extremely Randomized (ExtRa) Trees *(mod10-regression-extra-trees.ipynb)*
+- AdaBoost Regression *(mod10-regression-adaboost.ipynb)*
+- XGBoost Regression *(mod10-regression-xgboost.ipynb)*
 
 ## Notebook Series: Stacking Regression Models
-- Stacking Regression Models
+- Stacking Regression Models *(mod10-regression-stacking.ipynb)*
 
 # Classification Algorithms & Topics
 
