@@ -8,11 +8,12 @@ In this collection, we have a lot of notebooks that go together! It's a good thi
 
 ## Introductory Materials
 
+Basics of Machine Learning - Key Terminology *(mod10-fundamentals-key-terminology.pdf)*
+
 - Regression vs. Classification
 - Supervised vs. Unsupervised Models
 - Training, Testing, Validation
 - Overfitting / Underfitting
-- Statistical Properties of Underlying Functions
 
 ## Preprocessing Data
 
