@@ -17,7 +17,9 @@ Basics of Machine Learning - Key Terminology *(mod10-fundamentals-key-terminolog
 
 ## Preprocessing Data
 
-**Categorical Encoding:** *(mod10-preprocessing-categorical-encoding.ipynb)*
+**Categorical Encoding PDF:** *(mod10-preprocessing-categorical-encoding.pdf)*
+
+**Categorical Encoding Notebook:** *(mod10-preprocessing-categorical-encoding.ipynb)*
  - One-Hot Encoding
  - Binary Encoding
  - "Dropping" Categories & Colinearity
